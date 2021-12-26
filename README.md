@@ -15,8 +15,12 @@
 </div> <br
            
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=melquedeveloper&show_icons=true&theme=radical)
-
+## Redes Sociais!
+<div style = "display: inline_block">
+    <img align = "center" alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
 Apaixonado por tecnologia, desenvolvimento.
+           
 ### Indicações para Estudar:
 - [ Criando Infinite Scroll - React Native ] (https://youtu.be/TjkFGrjkXfc) <br/>
 - [ O que estudar para se tornar um desenvolvedor front-end? 2021 ] (https://youtu.be/Ab-kGzlCCWI) <br/>
