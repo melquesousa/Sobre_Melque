@@ -14,8 +14,7 @@
            
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=melquedeveloper&show_icons=true&theme=radical)
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
+Apaixonado por tecnologia, desenvolvimento.
 ### Indicações para Estudar:
 - [ Criando Infinite Scroll - React Native ] (https://youtu.be/TjkFGrjkXfc) <br/>
 - [ O que estudar para se tornar um desenvolvedor front-end? 2021 ] (https://youtu.be/Ab-kGzlCCWI) <br/>
