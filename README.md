@@ -10,10 +10,9 @@
   <img align = "center" alt = "react" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align = "center" alt = "react Native" src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align = "center" alt = "nodejs" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div> <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+</div> <br
+           
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=melquedeveloper&show_icons=true&theme=radical)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
