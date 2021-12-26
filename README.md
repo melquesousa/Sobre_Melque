@@ -1,6 +1,7 @@
 ##  Olá! Eu sou o Melque Sousa 🖐️
-🎓 Cursando Ciência da Computação
-🌐 Developer
+🖥️ Atualmente Atuo como Analista de TI.<br/>
+🎓 Cursando Ciência da Computação.<br/>
+🌐 Developer.
 ##  Tecnologias que eu uso no meu dia!
 
 <div style = "display: inline_block">
