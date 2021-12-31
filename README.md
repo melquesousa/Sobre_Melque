@@ -3,7 +3,7 @@
 
 🖥️ Atualmente Atuo como Analista de TI.<br/>
 🎓 Cursando Ciência da Computação.<br/>
-🌐 Developer Fullstack
+🌐 Developer Jr.
 ##  Tecnologias que eu uso no meu dia!
 
 <div style = "display: inline_block"><div style = "display: inline_block">
