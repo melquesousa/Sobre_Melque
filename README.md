@@ -1,5 +1,5 @@
 ##  Olá! Eu sou o Melque Sousa 🖐️
-### Em Breve! subirei meus Projetos!<br/> Aguarde...
+### Em Breve! Mais Pojetos!<br/>Aguarde...
 
 🖥️ Atualmente Atuo como Analista de TI.<br/>
 🎓 Cursando Ciência da Computação.<br/>
