@@ -1,5 +1,10 @@
-##  Olá! Eu sou o Melque Sousa 🖐️
-### Em Breve! Mais Pojetos!<br/>Aguarde...
+##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor ReactJS.
+
+Além do conhecimento em React, NodeJS! Tive uma experiê com Python e Django, veja nos meus repositorios alguns projetinho em Python.<br/>
+Minha decisão em permanecer no mundo .JS, foi exatamento a possibilidade e a quantidade de framework's robusto, que me ajudam no desenvolvimento de Sites e APP!
+sem falar do querido Node.JS para aplicações BackEnd.
+
+## Em breve, postarei meus projetos em .JS!
 
 🖥️ Atualmente Atuo como Analista de TI.<br/>
 🎓 Cursando Ciência da Computação.<br/>
