@@ -1,17 +1,17 @@
 ##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor ReactJS.
 
->>Eu:
+Eu:
 Profissional na área TI, atualmente no cargo de Analista TI. 
 Profissional dedicado, focado em resultados e melhorias dentro de minha área de atuação, bom relacionamento com pessoas, boa comunicação no trabalho em equipe.
 
->>Vida Acadêmica<<
+Vida Acadêmica<<
 
 * Universidade Estácio
 Graduação Ciência da Computação
 
 * IGTI - Instituto de Gestão e Tecnologia da Informação, Formação Analista de Banco de Dados.
 
->>Habilidades Extras<<
+Habilidades Extras<<
 Conhecimento em desenvolvimento web, já participei de projetos em grupo na criação de um sistema de gestão, já desenvolvi sites corporativos, institucional usando as tecnologias (WordPress, Bootstrap, HTML5, CSS3, JScript, ReactJS, NodeJS).
 
 ## Em breve, postarei meus projetos em .JS!
