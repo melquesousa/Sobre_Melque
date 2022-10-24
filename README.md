@@ -13,6 +13,7 @@ Graduação Ciência da Computação
 
 Habilidades Extras<<
 Conhecimento em desenvolvimento web, já participei de projetos em grupo na criação de um sistema de gestão, já desenvolvi sites corporativos, institucional usando as tecnologias (WordPress, Bootstrap, HTML5, CSS3, JScript, ReactJS, NodeJS).
+Atualmente estou em um projeto com foco em Python e Django! Desenvolvendo um sistema gerenciamento de PET.
 
 ## Em breve, postarei meus projetos em .JS!
 
