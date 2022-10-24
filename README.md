@@ -21,7 +21,7 @@ sem falar do querido Node.JS para aplicações BackEnd.
   <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   </div><br/>
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=melquedeveloper&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-2022&show_icons=true&theme=radical)
 ## Redes Sociais!
 <div style = "display: inline_block">
     <img align = "center" alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
