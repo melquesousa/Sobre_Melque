@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor ReactJS.
+##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor Jr.
 
 Eu:
 Profissional na área TI, atualmente no cargo de Analista TI. 
