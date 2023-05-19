@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor Jr.
+##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor
 
 Eu:
 Profissional na área TI, atualmente no cargo de Analista TI. 
