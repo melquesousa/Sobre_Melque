@@ -6,8 +6,8 @@ Profissional dedicado, focado em resultados e melhorias dentro de minha área de
 
 Vida Acadêmica<<
 
-* Universidade Estácio
-Graduação Ciência da Computação
+* Universidade UNIBF
+Graduação Análise e Desenvolvimento de Sistemas
 
 * IGTI - Instituto de Gestão e Tecnologia da Informação, Formação Analista de Banco de Dados.
 
