@@ -18,8 +18,9 @@ Atualmente estou em um projeto com foco em Python e Django! Desenvolvendo um sis
 ## Em breve, postarei meus projetos em .JS!
 
 🖥️ Atualmente Atuo como Analista de TI.<br/>
-🎓 Cursando Ciência da Computação.<br/>
-🌐 Developer Jr.
+🎓 Graduação Análise e Desenvolvimento de Sistemas.<br/>
+🌐 Developer Python
+🖥️ Analista de Banco de Dados.
 ##  Tecnologias que eu uso no meu dia!
 
 <div style = "display: inline_block"><div style = "display: inline_block">
