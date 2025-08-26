@@ -1,4 +1,4 @@
-##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor
+##  Olá! Eu sou o Melque Sousa 🖐️<br/>Gerente de Projeto de TI
 
 Eu:
 Profissional na área TI, atualmente no cargo de Gerente de projeto de TI, na 4Server Tecnologia. 
