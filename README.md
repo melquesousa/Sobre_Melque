@@ -1,7 +1,7 @@
 ##  Olá! Eu sou o Melque Sousa 🖐️<br/>Desenvolvedor
 
 Eu:
-Profissional na área TI, atualmente no cargo de Analista TI. 
+Profissional na área TI, atualmente no cargo de Gerente de projeto de TI, na 4Server Tecnologia. 
 Profissional dedicado, focado em resultados e melhorias dentro de minha área de atuação, bom relacionamento com pessoas, boa comunicação no trabalho em equipe.
 
 Vida Acadêmica<<
